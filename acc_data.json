@@ -1,0 +1,20 @@
+{
+  "123456": {
+    "pin": 9195,
+    "balance": 850.0,
+    "last_name": "Speed",
+    "first_name": "Richard"
+  },
+  "123457": {
+    "pin": 91956,
+    "balance": 850.0,
+    "last_name": "Speed",
+    "first_name": "Jayne"
+  },
+  "123458": {
+    "pin": "9999",
+    "balance": 1000.0,
+    "last_name": "Speed",
+    "first_name": "Ethan"
+  }
+}
